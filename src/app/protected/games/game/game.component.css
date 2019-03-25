@@ -1,0 +1,39 @@
+.game-boards {
+  display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+table td,  table th {
+  border: 1px solid #dbdbdb;
+  padding: 0.5em 0.75em;
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+.battleship-tile:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}
+
+.battleship-tile:active {
+  background-color: transparent;
+}
+
+.win, .win:hover {
+  background-color: #23d160;
+  color: #fff;
+}
+
+.fail, .fail:hover {
+  background-color: #ff3860;
+  color: #fff;
+}
