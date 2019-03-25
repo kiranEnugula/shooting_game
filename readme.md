@@ -2,7 +2,7 @@
 
 Battleship (also Battleships or Sea Battle[1]) is a guessing game for two players. It is played on ruled grids (paper or board) on which each players fleet of ships (including battleships) are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
 
-[Demo]( https://battle-game-d654f.firebaseapp.com)
+[Demo]( https://shooting-6c5b9.firebaseapp.com)
 
 ## Tech stack
 
@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repo 
 
 ```
-$ git clone git@github.com:koshacool/battleship.git yourFolderName
+$ git clone git@github.com:kiranEnugula/shooting_game.git yourFolderName
 $ cd yourFolderName
 $ npm i
 $ npm start
@@ -38,14 +38,14 @@ $ npm run test
 ### Deployment
 
 After merge changes into master branch the app will be automatically deployed to server 
-([Battleship Demo]( https://battle-game-d654f.firebaseapp.com )).
+([shooting]( https://shooting-6c5b9.firebaseapp.com )).
 
 ### Contributing
 Please read [CONTRIBUTING.md](contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Author
 
-* **[Jeetesh Chattraband](https://github.com/jeeteshchattraband)** 
+* **[kiranEnugula](https://github.com/kiranEnugula)** 
 
 
 
